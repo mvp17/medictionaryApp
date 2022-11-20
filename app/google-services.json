@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195862708733",
+    "firebase_url": "https://medictionary-31941.firebaseio.com",
+    "project_id": "medictionary-31941",
+    "storage_bucket": "medictionary-31941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195862708733:android:fac09f93e49fbd89f0d994",
+        "android_client_info": {
+          "package_name": "com.example.medictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195862708733-89nvldv55i2mcuqamu1cu3m6b4kacs7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeSaOAfEzJK-zMoor800VR5ZT7d7WkCE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195862708733-89nvldv55i2mcuqamu1cu3m6b4kacs7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Medictionary</string>
+    <string name="prefs_file">com.example.medictionary.PREFERENCE_FILE_KEY</string>
+    <string name="facebook_app_id">2903802023176157</string>
+    <string name="fb_login_protocol_scheme">fb2903802023176157</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_notification">It\'s time to take your pills</string>
+</resources>
